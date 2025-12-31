@@ -48,5 +48,8 @@ I am a second-year Computer Science and Engineering (CSE) student at Pundra Univ
 ---
 
 ## 📊 GitHub Stats
-![Noorbilu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noorbilu&show_icons=true&theme=radical)
+![Noorbilu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noorbilu&show_icons=true&count_private=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noorbilu&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noorbilu&theme=radical)
