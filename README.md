@@ -1,22 +1,17 @@
-## Noorbilu 
+# Noorbilu 
  
 ### 🌐 Frontend Developer | React & Next.js Enthusiast
 
+
+
 ## 💫 About Me
 I am a second-year Computer Science and Engineering (CSE) student at Pundra University of Science & Technology. I am a passionate Web Developer focused on creating responsive and user-friendly interfaces. I enjoy learning new technologies and turning ideas into real-world projects.
-
-
-## Current Activities
-- Exploring Next.js
-- Working on a tourism website
-- Learning Firebase authentication
 
 
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Noorbilu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nura-labonno-1a968031b)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nuralabonno)
 
 
 ## 💻 Tech Stack
@@ -47,5 +42,6 @@ I am a second-year Computer Science and Engineering (CSE) student at Pundra Univ
 ---
 
 ### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
