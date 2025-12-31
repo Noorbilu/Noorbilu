@@ -1,15 +1,16 @@
 ## Noorbilu 
+ 
+### 🌐 Frontend Developer | React & Next.js Enthusiast
 
-##🌐 Web Developer 
+## 💫 About Me
+I am a second-year Computer Science and Engineering (CSE) student at Pundra University of Science & Technology. I am a passionate Web Developer focused on creating responsive and user-friendly interfaces. I enjoy learning new technologies and turning ideas into real-world projects.
 
-Here are some ideas to get you started:
+## Current Activities
+- Exploring Next.js
+- Working on a tourism website
+- Learning Firebase authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, Express, Firebase
+- **Tools:** Git, VS Code, Figma
