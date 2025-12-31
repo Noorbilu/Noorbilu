@@ -19,15 +19,11 @@ I am a second-year Computer Science and Engineering (CSE) student at Pundra Univ
 [GitHub](https://github.com/Noorbilu) |
 [LinkedIn](https://www.linkedin.com/in/nura-labonno-1a968031b) |
 [Facebook](https://www.facebook.com/nuralabonno)
+
+
 ## 🌐 Socials
 
-<a href="https://github.com/Noorbilu">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
-</a>
-<a href="https://www.linkedin.com/in/nura-labonno-1a968031b">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
-</a>
-<a href="https://www.facebook.com/your.facebook.username">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="35"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Noorbilu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nura-labonno-1a968031b)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nuralabonno)
 
