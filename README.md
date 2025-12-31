@@ -15,11 +15,6 @@ I am a second-year Computer Science and Engineering (CSE) student at Pundra Univ
 - **Backend:** Node.js, Express, Firebase
 - **Tools:** Git, VS Code, Figma
 
-## Social Links
-[GitHub](https://github.com/Noorbilu) |
-[LinkedIn](https://www.linkedin.com/in/nura-labonno-1a968031b) |
-[Facebook](https://www.facebook.com/nuralabonno)
-
 
 ## 🌐 Socials
 
