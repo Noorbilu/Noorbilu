@@ -1,6 +1,6 @@
 # Noorbilu 
  
-### 🌐 Frontend Developer | React & Next.js Enthusiast
+### Frontend Developer | CSE Student | React • Next.js • Web Development
 
 
 
