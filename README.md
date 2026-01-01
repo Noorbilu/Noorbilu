@@ -1,4 +1,4 @@
-![My Image](MEAN Stack Benefits.jpg)
+![My Image](hype.jpg)
 
 # Noorbilu 
  
