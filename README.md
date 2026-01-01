@@ -1,4 +1,4 @@
-![My Image](hype.jpg)
+![My Image](hype.png)
 
 # Noorbilu 
  
